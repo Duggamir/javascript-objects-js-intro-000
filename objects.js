@@ -3,7 +3,7 @@ var playlist = {'duckman' : 'Bobbamir'};
 function updatePlaylist(playlist, artistName, songTitle)
 {
   playlist.artistName = songTitle;
-  return playlkist;
+  return playlist;
 }
 
 function removeFromPlaylist(playlist, name)
